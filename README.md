@@ -6,6 +6,12 @@ The website should populate with your selected browser!
 
 Congratulations
 
-/////TYPOs and gibberish that i will be later reverting the changes to//wdfbasdfvwbkanlfbnvaps what a mistake ive made completely by accident i swear
+// License Explanation
 
-rsg
+The license I chose is the generic ASP.NET Web application license. Since the Appliction can be used by whoever has access to the source code and has members login in, the lisence provides Coverage for:
+Third Party Materials
+Software
+Content
+Member Account and Privacy
+Content Published to the Website
+And Limitations of Users
