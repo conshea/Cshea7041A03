@@ -1,0 +1,11 @@
+
+
+Private Vs Public Repository
+
+A Capstone Customer may have different preferences on the use of repositories.
+
+They may want a Private Repository because of concerns over Intellectual Property. A private repo restricts permissions to view and contribute.
+
+A public Repository allows for public access to view and sometimes edit and contribute to code. Sometimes a Capstone company will not mind if you use a public repository, because the information is not proprietary or they would like outside input or audit of the product.
+
+Signal and the Capstone company very likely differ in their goals. As such they will likely want different repo use. A private company developing a profit to generate revenue like a Capstone would likely not want their proprietary data or software internet facing and available to use. Signal On the other hand, has a mission to facilitate end to end encrypted communication, and the best way to do that is make their software open source. Another reason may be that they want to harness the talents of developers to test and build upon their existing systems to improve the product and further that goal.
