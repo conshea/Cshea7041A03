@@ -1,3 +1,4 @@
+Conor Shea
 Updated for Git Hub
 How To Build Install and Run the Application
 
